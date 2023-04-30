@@ -4,7 +4,8 @@
     width: 200px;
     background-color: purple;
     border-left: green;
-    border-left-width: 5px;
+   
+	border-left-width:5px;
     padding: 10px;
     font-size: 20px;
     color: white;
